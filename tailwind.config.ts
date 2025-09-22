@@ -47,6 +47,13 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        cafe: {
+          warm: "hsl(var(--cafe-warm))",
+          cream: "hsl(var(--cafe-cream))",
+          gold: "hsl(var(--cafe-gold))",
+          brown: "hsl(var(--cafe-brown))",
+          pink: "hsl(var(--cafe-pink))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
@@ -62,6 +69,18 @@ export default {
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",
         sm: "calc(var(--radius) - 4px)",
+      },
+      backgroundImage: {
+        'cafe-gradient': 'var(--cafe-gradient)',
+        'cafe-hero': 'var(--cafe-hero-gradient)',
+      },
+      boxShadow: {
+        'cafe': 'var(--cafe-shadow)',
+        'cafe-glow': 'var(--cafe-glow)',
+      },
+      fontFamily: {
+        'arabic': ['Amiri', 'Cairo', 'Noto Sans Arabic', 'serif'],
+        'sans': ['Inter', 'system-ui', 'sans-serif'],
       },
       keyframes: {
         "accordion-down": {
