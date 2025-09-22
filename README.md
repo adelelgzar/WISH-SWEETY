@@ -62,7 +62,11 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/eba020c9-c290-4497-b7c0-88c4ef82a8bd) and click on Share -> Publish.
+🚀 **Live Demo**: [https://adelelgzar.github.io/WISH-SWEETY/](https://adelelgzar.github.io/WISH-SWEETY/)
+
+This project is automatically deployed to GitHub Pages using GitHub Actions. Every push to the main branch triggers a new deployment.
+
+You can also deploy using [Lovable](https://lovable.dev/projects/eba020c9-c290-4497-b7c0-88c4ef82a8bd) by clicking on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
